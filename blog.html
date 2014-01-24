@@ -1,0 +1,24 @@
+---
+layout: page
+title: Blog posts
+---
+
+<div id="home">
+
+    <h1>Blog posts</h1>
+
+    <ul class="posts">
+
+        {% for post in site.posts %}
+        <li>
+            <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+
+        <li>
+            <span>24 Dec 2013</span> &raquo; <a href="https://events.ccc.de/congress/2013/wiki/images/b/b9/LT-NSA-like_Surveillance_by_a_Third_World_Country.pdf" target="_blank">Slides from 30C3 lightening talk about government web login phishing in Tunisia</a>
+        </li>
+
+    </ul>
+
+</div>

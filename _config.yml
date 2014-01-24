@@ -1,0 +1,11 @@
+name: musalbas
+markdown: redcarpet
+pygments: true
+about: Personal homepage of Mustafa Al-Bassam
+urls:
+    - text: Email
+      url: mailto:mus@musalbas.com
+    - text: Twitter
+      url: https://twitter.com/musalbas
+    - text: GitHub
+      url: https://github.com/musalbas

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <!--░░░░▌▒█░░░░░░░░░░░▄▀▒▌
+        ░░░░░░░░▌▒▒█░░░░░░░░▄▀▒▒▒▐
+        ░░░░░░░▐▄▀▒▒▀▀▀▀▄▄▄▀▒▒▒▒▒▐  ohai
+        ░░░░▄▄▀▒░▒▒▒▒▒▒▒▒▒█▒▒▄█▒▐
+        ░░▄▀▒▒▒░░░▒▒▒░░░▒▒▒▀██▀▒▌
+        ░░▐▒▒▒▄▄▒▒▒▒░░░▒▒▒▒▒▒▒▀▄▒▒▌
+        ░░▌░░▌█▀▒▒▒▒▒▄▀█▄▒▒▒▒▒▒▒█▒▐
+        ░▐░░░▒▒▒▒▒▒▒▒▌██▀▒▒░░░▒▒▒▀▄▌
+        ░▌░▒▄██▄▒▒▒▒▒▒▒▒▒░░░░░░▒▒▒▒▌
+        ▀▒▀▐▄█▄█▌▄░▀▒▒░░░░░░░░░░▒▒▒-->
+
+        <title>{% if page.title %}{{ page.title }}{% else %}{{ site.about }}{% endif %}</title>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="/css/syntax.css">
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+
+    <body>
+
+        <div id="container">
+
+            <div class="left">
+
+                <h1>{{ site.name }}</h1>
+
+                <div id="about">
+                    {{ site.about }}
+                </div>
+
+                <strong>Navigation</strong><br />
+                <a href="/">Home</a><br />
+                <a href="/blog.html">Blog</a><br />
+                <a href="/pgp.html">PGP key</a><br />
+
+                {% for i in site.urls %}
+                <a class="about" href="{{ i.url }}" target="_blank">{{ i.text }}</a><br />
+                {% endfor %}
+
+            </div>
+
+            <div class="right">
+
+                {{ content }}
+
+            </div>
+
+        </div>
+
+    </body>
+
+</html>
