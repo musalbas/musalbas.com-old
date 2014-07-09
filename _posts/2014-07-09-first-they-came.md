@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First they came
+title: First they came...
 date: 2014-07-09
 ---
 
