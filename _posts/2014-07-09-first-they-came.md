@@ -33,7 +33,7 @@ Because I was not a Bahamian.
 Then they came for the [protest groups](http://boingboing.net/2014/02/25/nsa-and-gchqs-dirty-tricking.html), and I did not speak out—<br>
 Because I was not in a protest group.
 
-Then they came for the [wankers](http://leaksource.info/2013/11/27/pornint-nsa-spies-on-porn-habits-as-part-of-plan-to-discredit-radicalizers/), and I did not speak out—<br>
+Then they came for the [wankers](http://www.huffingtonpost.com/2013/11/26/nsa-porn-muslims_n_4346128.html), and I did not speak out—<br>
 Because I was not a wanker (but they are).
 
 Then they came for me—and there was no one left to speak for me.
