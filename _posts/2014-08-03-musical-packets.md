@@ -20,7 +20,7 @@ The project won two of the six prizes at StudentHack:
 * Best Use of MongoHQ
 * Best Fresher Hack
 
+[The source code is available on GitHub.](https://github.com/musalbas/musicalpackets)
+
 ![](/img/studenthack.jpg)
 *From left to right: Callum Spawforth, me and Fares Alaboud.*
-
-[The source code is available on GitHub.](https://github.com/musalbas/musicalpackets)
