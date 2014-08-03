@@ -180,10 +180,13 @@ blockquote {
 /*
 /*****************************************************************************/
 
-@media (max-width: 850px) {
+@media (max-width: 1060px) {
     body {
         font-size: large;
     }
+}
+
+@media (max-width: 850px) {
     .main-header,
     .main-content {
         width: 100%;
