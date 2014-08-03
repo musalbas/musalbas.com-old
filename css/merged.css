@@ -147,7 +147,7 @@ article p a {
     float: right;
     padding: 0;
 }
-.main-content p {
+.main-content p, li {
     font-size: large;
 }
 .main-content a {
@@ -219,7 +219,7 @@ blockquote {
         width: 100%;
         padding: 0.75em;
     }
-    .main-content p {
+    .main-content p, li {
         font-size: medium;
     }
     .main-header .module {
