@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asteroids on Steroids
-date: 2014/08/03
+date: 2014/08/03 11:00
 ---
 
 Asteroids on Steroids is a desktop game I developed in Python using the [Pygame](http://pygame.org) library in the summer of 2012, when I was 17.
