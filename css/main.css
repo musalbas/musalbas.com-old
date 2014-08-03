@@ -162,6 +162,7 @@ nav.module {
 pre {
     background: #f7f7f7;
     padding: 0.4em;
+    overflow: auto;
 }
 blockquote {
     position: relative;
