@@ -4,7 +4,7 @@ title: My humble opinion of BattleHack
 date: 2015-05-02
 ---
 
-I recently attended [BattleHack](https://2015.battlehack.org/) London. It was one of the most misleading and dishonest hackathons I've
+I recently attended [BattleHack](https://battlehack.org/) London. It was one of the most misleading and dishonest hackathons I've
 ever been to.
 
 If you who don't know what BattleHack
