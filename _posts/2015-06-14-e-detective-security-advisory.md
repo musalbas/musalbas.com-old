@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Security advisory: E-Detective Lawful Interception System
+title: Security advisory - E-Detective Lawful Interception System
 date: 2015-06-14
 ---
 
