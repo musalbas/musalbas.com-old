@@ -17,3 +17,5 @@ I eventually refactored it into a live web application: [listentotwitter.com](ht
 The backend of the web application is written in Python, using [Flask](http://flask.pocoo.org/) for the web server, [TextBlob](https://textblob.readthedocs.org/en/dev/) for sentiment analysis, and [socket.io](http://socket.io/) for real-time client communication.
 
 Admittedly, it sounds pretty bad from a musical perspective. It sounds a bit like the "[world's ugliest music](https://www.youtube.com/watch?v=RENk9PK06AQ)". Regardless, it was a fun experiment. There are perhaps way to make it sound more musical, but I don't know much about making music that sounds good.
+
+[The source code is available on GitHub.](https://github.com/musalbas/listentotwitter)
