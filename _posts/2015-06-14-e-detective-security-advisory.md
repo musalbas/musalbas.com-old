@@ -4,7 +4,7 @@ title: Security advisory - E-Detective Lawful Interception System
 date: 2015-06-14
 ---
 
-This is a full disclosure security advisory (also [posted](http://seclists.org/fulldisclosure/2015/Jun/42) on the Full Disclosure mailing list) for multiple vulnerabilities in [Decision Group](http://www.edecision4u.com/index.html)'s [E-Detective](http://www.edecision4u.com/E-DETECTIVE.html) "Real-Time Network Forensics and Lawful Interception System", co-authored by [slipstream/RoL](https://twitter.com/TheWack0lian) and I.
+This is a full disclosure security advisory (also [posted on the Full Disclosure mailing list](http://seclists.org/fulldisclosure/2015/Jun/42)) co-authored by [slipstream/RoL](https://twitter.com/TheWack0lian) and I, for multiple vulnerabilities in [Decision Group](http://www.edecision4u.com/index.html)'s [E-Detective](http://www.edecision4u.com/E-DETECTIVE.html) "Real-Time Network Forensics and Lawful Interception System".
 
 >E-Detective is a real-time Internet interception, monitoring and forensics system that captures, decodes, and reconstructs various types of Internet traffic. It is commonly used for organization Internet behavioral monitoring, auditing, record keeping, forensics analysis, and investigation, as well as, legal and lawful interception for lawful enforcement agencies such as Police Intelligence, Military Intelligence, Cyber Security Departments, National Security Agencies, Criminal Investigation Agencies, Counter Terrorism Agencies etc. It also can provide a compliance solution for many standards or acts like Sarbanes Oxley Act (SOX), HIPAA, GLBA, SEC, NASD, E-Discovery and many others.
 
