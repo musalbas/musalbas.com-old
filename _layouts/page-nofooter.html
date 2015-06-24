@@ -37,13 +37,16 @@
                     {{ site.about }}
                 </div>
 
-                <strong>Navigation</strong><br />
-                <a href="/">Home</a><br />
-                <a href="/weblog.html">Weblog</a><br />
-                <a href="/pgp.html">PGP key</a><br />
+                <strong>Navigation</strong><br>
+                <a href="/">Home</a><br>
+                <a href="/weblog.html">Weblog</a><br>
+                <a href="/about.html">About</a><br>
+                <a href="/pgp.html">PGP key</a><br>
+                <br>
 
+                <strong>Contact</strong><br>
                 {% for i in site.urls %}
-                <a class="about" href="{{ i.url }}" target="_blank">{{ i.text }}</a><br />
+                <a class="about" href="{{ i.url }}" target="_blank">{{ i.text }}</a><br>
                 {% endfor %}
 
             </div>

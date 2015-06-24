@@ -76,6 +76,10 @@ div.content {
 	padding-top: 5px;
 }
 
+div.content img {
+    max-width: 500px;
+}
+
 div.content pre {
 	background: #333333;
 	padding: 5px;
