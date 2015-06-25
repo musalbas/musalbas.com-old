@@ -1,6 +1,6 @@
 name: musalbas
 markdown: redcarpet
-pygments: true
+highlighter: true
 about: Personal homepage of Mustafa Al-Bassam
 host: 127.0.0.1
 port: 9083
