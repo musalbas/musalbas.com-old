@@ -13,7 +13,7 @@ The happier the general discussion, the higher the pitch of each note; the more 
 I eventually refactored it into a live web application: [listentotwitter.com](http://listentotwitter.com).
 
 ![Screenshot from listentotwitter.com](/img/listentotwitter-screenshot.png)<br>
-*Screenshot from listentotwitter.com*.
+*Screenshot from listentotwitter.com.*
 
 The backend of the web application is written in Python, using [Flask](http://flask.pocoo.org/) for the web server, [TextBlob](https://textblob.readthedocs.org/en/dev/) for sentiment analysis, and [socket.io](http://socket.io/) for real-time client communication.
 
