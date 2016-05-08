@@ -12,7 +12,7 @@ The idea for the game is to make it possible to play the classic arcade game Ast
 
 The game automatically determines what the different elements (or "asteroids") of the user-specified image are. It does this by considering which regions of the image are connected by the same (or similar) colour. This method was inspired by the [fuzzy selection tool in GIMP](http://docs.gimp.org/en/gimp-tool-fuzzy-select.html).
 
-Initially, I attempted to implement my own fuzzy selection algorithm in raw Python using a pixel queue, but I quickly realised that Python and scripting languages in general were way too slow (for a responsive game) to process the millions of pixels in an image on their own. My implementation in Python took several minutes per image to execute. I eventually found [OpenCV](http://opencv.org/), an image processing library available for Python that had a "fuzzy selection"-type function (in the end it was probably unnecessary because Pygame itself has a "fuzzy selection"-type function).
+Initially, I attempted to implement my own fuzzy selection algorithm in raw Python using a queue-based implementation, but I quickly realised that Python and scripting languages in general were way too slow (for a responsive game) to process the millions of pixels in an image on their own. My implementation in Python took several minutes per image to execute. I eventually found [OpenCV](http://opencv.org/), an image processing library available for Python that had a "fuzzy selection"-type function (in the end it was probably unnecessary because Pygame itself has a "fuzzy selection"-type function).
 
 [The source code for the game is available on GitHub.](https://github.com/musalbas/Asteroids-on-Steroids)
 
