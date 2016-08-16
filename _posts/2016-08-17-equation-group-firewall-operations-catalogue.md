@@ -63,7 +63,7 @@ Implants
 A firewall software implant that is used with EGREGIOUSBLUNDER (Fortigate) and ELIGIBLEBACHELOR (TOPSEC).
 
 **BANANAGLEE**
-A non-persistent firewall software implant for Cisco ASA and PIX devices that is installed by writing the implant directly to memory. Also mentioned in the previously leaked [NSA ANT catalogue]((https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/)).
+A non-persistent firewall software implant for Cisco ASA and PIX devices that is installed by writing the implant directly to memory. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
 
 **BANANABALLOT**
 A BIOS module associated with an implant (likely BANANAGLEE).
@@ -72,7 +72,7 @@ A BIOS module associated with an implant (likely BANANAGLEE).
 A firewall implant that is a predecessor of BANANAGLEE.
 
 **JETPLOW**
-A firmware persistence implant for Cisco ASA and PIX devices that persists BANANAGLEE. Also mentioned in the previously leaked [NSA ANT catalogue]((https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/)).
+A firmware persistence implant for Cisco ASA and PIX devices that persists BANANAGLEE. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
 
 **SCREAMINGPLOW**
 Similar to JETPLOW.
@@ -84,7 +84,7 @@ A firewall software implant. Unknown vendor.
 A firewall software implant for Fortigate firewalls.
 
 **FEEDTROUGH**
-A technique for persisting BANANAGLEE and ZESTYLEAK implants for Juniper Netscreen firewalls. Also mentioned in the previously leaked [NSA ANT catalogue]((https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/)).
+A technique for persisting BANANAGLEE and ZESTYLEAK implants for Juniper Netscreen firewalls. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
 
 **JIFFYRAUL**
 A module loaded into Cisco PIX firewalls with BANANAGLEE.
