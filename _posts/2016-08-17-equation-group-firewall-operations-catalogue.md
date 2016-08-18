@@ -164,6 +164,9 @@ A tool for connecting to an unspecified implant (likely BANANAGLEE).
 **PANDAROCK**
 A tool for connecting to a POLARPAWS implant.
 
+**TURBOPANDA**
+A tool that can be used to communicate with a HALLUXWATER implant. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
+
 **TEFLONDOOR**
 A self-destructing post-exploitation shell for executing an arbitrary file. The arbitrary file is first encrypted with a key.
 
