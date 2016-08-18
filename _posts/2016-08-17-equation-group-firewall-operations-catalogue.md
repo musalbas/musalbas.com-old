@@ -98,6 +98,14 @@ A firewall implant. Unknown vendor.
 **POLARSNEEZE**
 A firewall implant. Unknown vendor.
 
+**ZESTYLEAK**
+A firewall software implant for Juniper Netscreen firewalls that is also listed as a module for BANANAGLEE. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
+
+**SECONDDATE**
+A packet injection module for BANANAGLEE.
+
+****
+
 Tools
 -
 
@@ -118,9 +126,6 @@ A tool for connecting to an unspecified implant (likely BANANAGLEE).
 
 **PANDAROCK**
 A tool for connecting to a POLARPAWS implant.
-
-**SECONDDATE**
-A packet injection module for Cisco PIX devices.
 
 **TEFLONDOOR**
 A self-destructing post-exploitation shell for executing an arbitrary file. The arbitrary file is first encrypted with a key.
