@@ -12,7 +12,7 @@ Exploits
 -
 
 **EGREGIOUSBLUNDER**
-A remote code execution exploit for Fortigate firewalls that exploits a HTTP cookie overflow vulnerability. It effects models 60, 60M, 80C, 200A, 300A, 400A, 500A, 620B, 800, 5000, 1000A, 3600, and 3600A. The model of the firewall is detected by examining the ETag in the HTTP headers of the firewall. This is not CVE-2006-6493 as detected by Avast.
+A remote code execution exploit for Fortigate firewalls that exploits a HTTP cookie overflow vulnerability. It affects models 60, 60M, 80C, 200A, 300A, 400A, 500A, 620B, 800, 5000, 1000A, 3600, and 3600A. The model of the firewall is detected by examining the ETag in the HTTP headers of the firewall. This is not CVE-2006-6493 as detected by Avast.
 
 **ELIGIBLEBACHELOR**
 An exploit for TOPSEC firewalls running the TOS operation system, affecting versions 3.2.100.010, 3.3.001.050, 3.3.002.021 and 3.3.002.030. The attack vector is unknown but it has an XML-like payload that starts with `<?tos length="001e:%8.8x"?>`.
