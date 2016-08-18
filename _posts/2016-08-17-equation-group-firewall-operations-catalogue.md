@@ -18,7 +18,7 @@ A remote code execution exploit for Fortigate firewalls that exploits a HTTP coo
 An exploit for TOPSEC firewalls running the TOS operation system, affecting versions 3.2.100.010, 3.3.001.050, 3.3.002.021 and 3.3.002.030. The attack vector is unknown but it has an XML-like payload that starts with `<?tos length="001e:%8.8x"?>`.
 
 **ELIGIBLEBOMBSHELL**
-A remote code execution exploit for TOPSEC firewalls that exploits a HTTP cookie command injection vulnerability, affecting versions 3.2.100.010.1_pbc_17_iv_3 to 3.3.005.066.1. Version detection by ETag examination.
+A remote code execution exploit for TOPSEC firewalls that exploits a HTTP cookie command injection vulnerability, affecting versions 3.2.100.010.1\_pbc\_17\_iv\_3 to 3.3.005.066.1. Version detection by ETag examination.
 
 **WOBBLYLLAMA**
 A payload for the ELIGIBLEBOMBSHELL TOPSEC firewall exploit affecting version 3.3.002.030.8_003.
@@ -33,7 +33,7 @@ A payload for the ELIGIBLEBOMBSHELL TOPSEC firewall exploit affecting version to
 A payload for the ELIGIBLEBOMBSHELL TOPSEC firewall exploit affecting version tos_3.3.005.066.1.
 
 **GOTHAMKNIGHT**
-A payload for the ELIGIBLEBOMBSHELL TOPSEC firewall exploit affecting version 3.2.100.010.8_pbc_27. Has no BLATSTING support.
+A payload for the ELIGIBLEBOMBSHELL TOPSEC firewall exploit affecting version 3.2.100.010.8\_pbc\_27. Has no BLATSTING support.
 
 **ELIGIBLECANDIDATE**
 A remote code execution exploit for TOPSEC firewalls that exploits a HTTP cookie command injection vulnerability, affecting versions 3.3.005.057.1 to 3.3.010.024.1.
