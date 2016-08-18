@@ -12,13 +12,13 @@ Exploits
 -
 
 **EGREGIOUSBLUNDER**
-A remote code execution exploit for Fortigate firewalls that exploits a HTTP cookie overflow vulnerability. It effects models 60, 60M, 80C, 200A, 300A, 400A, 500A, 620B, 800, 5000, 1000A, 3600, and 3600A. The model of the firewall is detected by examining the ETag in the HTTP headers of the firewall. This is not CVE-2006-6493 as detected by Avast.
+A remote code execution exploit for Fortigate firewalls that exploits a HTTP cookie overflow vulnerability. It affects models 60, 60M, 80C, 200A, 300A, 400A, 500A, 620B, 800, 5000, 1000A, 3600, and 3600A. The model of the firewall is detected by examining the ETag in the HTTP headers of the firewall. This is not CVE-2006-6493 as detected by Avast.
 
 **ELIGIBLEBACHELOR**
 An exploit for TOPSEC firewalls running the TOS operation system, affecting versions 3.2.100.010, 3.3.001.050, 3.3.002.021 and 3.3.002.030. The attack vector is unknown but it has an XML-like payload that starts with `<?tos length="001e:%8.8x"?>`.
 
 **ELIGIBLEBOMBSHELL**
-A remote code execution exploit for TOPSEC firewalls that exploits a HTTP cookie command injection vulnerability, affecting versions 3.2.100.010.1_pbc_17_iv_3 to 3.3.005.066.1. Version detection by ETag examination.
+A remote code execution exploit for TOPSEC firewalls that exploits a HTTP cookie command injection vulnerability, affecting versions 3.2.100.010.1\_pbc\_17\_iv\_3 to 3.3.005.066.1. Version detection by ETag examination.
 
 **WOBBLYLLAMA**
 A payload for the ELIGIBLEBOMBSHELL TOPSEC firewall exploit affecting version 3.3.002.030.8_003.
@@ -33,7 +33,7 @@ A payload for the ELIGIBLEBOMBSHELL TOPSEC firewall exploit affecting version to
 A payload for the ELIGIBLEBOMBSHELL TOPSEC firewall exploit affecting version tos_3.3.005.066.1.
 
 **GOTHAMKNIGHT**
-A payload for the ELIGIBLEBOMBSHELL TOPSEC firewall exploit affecting version 3.2.100.010.8_pbc_27. Has no BLATSTING support.
+A payload for the ELIGIBLEBOMBSHELL TOPSEC firewall exploit affecting version 3.2.100.010.8\_pbc\_27. Has no BLATSTING support.
 
 **ELIGIBLECANDIDATE**
 A remote code execution exploit for TOPSEC firewalls that exploits a HTTP cookie command injection vulnerability, affecting versions 3.3.005.057.1 to 3.3.010.024.1.
@@ -63,7 +63,7 @@ Implants
 A firewall software implant that is used with EGREGIOUSBLUNDER (Fortigate) and ELIGIBLEBACHELOR (TOPSEC).
 
 **BANANAGLEE**
-A non-persistent firewall software implant for Cisco ASA and PIX devices that is installed by writing the implant directly to memory. Also mentioned in the previously leaked [NSA ANT catalogue]((https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/)).
+A non-persistent firewall software implant for Cisco ASA and PIX devices that is installed by writing the implant directly to memory. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
 
 **BANANABALLOT**
 A BIOS module associated with an implant (likely BANANAGLEE).
@@ -72,7 +72,7 @@ A BIOS module associated with an implant (likely BANANAGLEE).
 A firewall implant that is a predecessor of BANANAGLEE.
 
 **JETPLOW**
-A firmware persistence implant for Cisco ASA and PIX devices that persists BANANAGLEE. Also mentioned in the previously leaked [NSA ANT catalogue]((https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/)).
+A firmware persistence implant for Cisco ASA and PIX devices that persists BANANAGLEE. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
 
 **SCREAMINGPLOW**
 Similar to JETPLOW.
@@ -84,7 +84,7 @@ A firewall software implant. Unknown vendor.
 A firewall software implant for Fortigate firewalls.
 
 **FEEDTROUGH**
-A technique for persisting BANANAGLEE and ZESTYLEAK implants for Juniper Netscreen firewalls. Also mentioned in the previously leaked [NSA ANT catalogue]((https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/)).
+A technique for persisting BANANAGLEE and ZESTYLEAK implants for Juniper NetScreen firewalls. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
 
 **JIFFYRAUL**
 A module loaded into Cisco PIX firewalls with BANANAGLEE.
@@ -97,6 +97,51 @@ A firewall implant. Unknown vendor.
 
 **POLARSNEEZE**
 A firewall implant. Unknown vendor.
+
+**ZESTYLEAK**
+A firewall software implant for Juniper NetScreen firewalls that is also listed as a module for BANANAGLEE. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
+
+**SECONDDATE**
+A packet injection module for BANANAGLEE and BARGLEE.
+
+**BARPUNCH**
+A module for BANANAGLEE and BARGLEE implants.
+
+**BBALL**
+A module for BANANAGLEE implants.
+
+**BBALLOT**
+A module for BANANAGLEE implants.
+
+**BBANJO**
+A module for BANANAGLEE implants.
+
+**BCANDY**
+A module for BANANAGLEE implants.
+
+**BFLEA**
+A module for BANANAGLEE implants.
+
+**BMASSACRE**
+A module for BANANAGLEE and BARGLEE implants.
+
+**BNSLOG**
+A module for BANANAGLEE and BARGLEE implants.
+
+**BPATROL**
+A module for BANANAGLEE implants.
+
+**BPICKER**
+A module for BANANAGLEE implants.
+
+**BPIE**
+A module for BANANAGLEE and BARGLEE implants.
+
+**BUSURPER**
+A module for BANANAGLEE implants.
+
+**CLUCKLINE**
+A module for BANANAGLEE implants.
 
 Tools
 -
@@ -119,8 +164,8 @@ A tool for connecting to an unspecified implant (likely BANANAGLEE).
 **PANDAROCK**
 A tool for connecting to a POLARPAWS implant.
 
-**SECONDDATE**
-A packet injection module for Cisco PIX devices.
+**TURBOPANDA**
+A tool that can be used to communicate with a HALLUXWATER implant. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
 
 **TEFLONDOOR**
 A self-destructing post-exploitation shell for executing an arbitrary file. The arbitrary file is first encrypted with a key.
@@ -133,3 +178,6 @@ Extracts something from a file and produces a PCAP file as output.
 
 **NOPEN**
 A post-exploitation shell consisting of a client and a server that encrypts data using RC6. The server is installed on the target machine.
+
+**BENIGNCERTAIN**
+A tool that appears to be for sending certain types of Internet Key Exchange (IKE) packets to a remote host and parsing the response.
