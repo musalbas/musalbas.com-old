@@ -84,7 +84,7 @@ A firewall software implant. Unknown vendor.
 A firewall software implant for Fortigate firewalls.
 
 **FEEDTROUGH**
-A technique for persisting BANANAGLEE and ZESTYLEAK implants for Juniper Netscreen firewalls. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
+A technique for persisting BANANAGLEE and ZESTYLEAK implants for Juniper NetScreen firewalls. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
 
 **JIFFYRAUL**
 A module loaded into Cisco PIX firewalls with BANANAGLEE.
@@ -99,7 +99,7 @@ A firewall implant. Unknown vendor.
 A firewall implant. Unknown vendor.
 
 **ZESTYLEAK**
-A firewall software implant for Juniper Netscreen firewalls that is also listed as a module for BANANAGLEE. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
+A firewall software implant for Juniper NetScreen firewalls that is also listed as a module for BANANAGLEE. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
 
 **SECONDDATE**
 A packet injection module for BANANAGLEE and BARGLEE.
