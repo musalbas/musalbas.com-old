@@ -180,4 +180,4 @@ Extracts something from a file and produces a PCAP file as output.
 A post-exploitation shell consisting of a client and a server that encrypts data using RC6. The server is installed on the target machine.
 
 **BENIGNCERTAIN**
-A tool that appears to be for sending certain types of Internet Key Exchange (IKE) packets to a remote host.
+A tool that appears to be for sending certain types of Internet Key Exchange (IKE) packets to a remote host and parsing the response.
