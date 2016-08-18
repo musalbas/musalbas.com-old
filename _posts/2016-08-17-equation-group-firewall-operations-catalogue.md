@@ -102,7 +102,7 @@ A firewall implant. Unknown vendor.
 A firewall software implant for Juniper Netscreen firewalls that is also listed as a module for BANANAGLEE. Also mentioned in the previously leaked [NSA ANT catalogue](https://leaksource.info/2013/12/30/nsas-ant-division-catalog-of-exploits-for-nearly-every-major-software-hardware-firmware/).
 
 **SECONDDATE**
-A packet injection module for BANANAGLEE.
+A packet injection module for BANANAGLEE and BARGLEE.
 
 ****
 
