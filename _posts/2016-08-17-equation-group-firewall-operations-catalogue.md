@@ -104,7 +104,44 @@ A firewall software implant for Juniper Netscreen firewalls that is also listed 
 **SECONDDATE**
 A packet injection module for BANANAGLEE and BARGLEE.
 
-****
+**BARPUNCH**
+A module for BANANAGLEE and BARGLEE implants.
+
+**BBALL**
+A module for BANANAGLEE implants.
+
+**BBALLOT**
+A module for BANANAGLEE implants.
+
+**BBANJO**
+A module for BANANAGLEE implants.
+
+**BCANDY**
+A module for BANANAGLEE implants.
+
+**BFLEA**
+A module for BANANAGLEE implants.
+
+**BMASSACRE**
+A module for BANANAGLEE and BARGLEE implants.
+
+**BNSLOG**
+A module for BANANAGLEE and BARGLEE implants.
+
+**BPATROL**
+A module for BANANAGLEE implants.
+
+**BPICKER**
+A module for BANANAGLEE implants.
+
+**BPIE**
+A module for BANANAGLEE and BARGLEE implants.
+
+**BUSURPER**
+A module for BANANAGLEE implants.
+
+**CLUCKLINE**
+A module for BANANAGLEE implants.
 
 Tools
 -
