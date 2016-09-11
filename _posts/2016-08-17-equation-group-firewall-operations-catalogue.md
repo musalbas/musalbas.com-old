@@ -78,7 +78,7 @@ A firmware persistence implant for Cisco ASA and PIX devices that persists BANAN
 Similar to JETPLOW.
 
 **BARGLEE**
-A firewall software implant. Unknown vendor.
+A firewall software implant for Juniper NetScreen firewalls.
 
 **BUZZDIRECTION**
 A firewall software implant for Fortigate firewalls.
