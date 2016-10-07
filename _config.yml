@@ -5,13 +5,11 @@ about: Personal homepage of Mustafa Al-Bassam
 host: 0.0.0.0
 port: 9083
 urls:
-    - text: Email
-      url: mailto:mus@musalbas.com
     - text: Twitter
       url: https://twitter.com/musalbas
     - text: GitHub
       url: https://github.com/musalbas
     - text: LinkedIn
       url: https://www.linkedin.com/in/musalbas
-    - text: Research@UCL
+    - text: Research
       url: http://www0.cs.ucl.ac.uk/staff/M.AlBassam
