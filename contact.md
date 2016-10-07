@@ -3,7 +3,7 @@ layout: post
 title: Contact
 ---
 
-Email: [mus@musalbas.com](mailto:mus@musalbas.com)
+You can email me at [mus@musalbas.com](mailto:mus@musalbas.com).
 
 PGP key
 -
