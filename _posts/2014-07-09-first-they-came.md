@@ -16,8 +16,8 @@ Because I was not a Tor user.
 Then they came for the [journalists](http://thehill.com/blogs/blog-briefing-room/news/316751-snowden-nsa-targeted-journalists-critical-of-government-after-911), and I did not speak out—<br>
 Because I was not a journalist.
 
-Then they came for the [Muslim civil rights leaders](https://firstlook.org/theintercept/article/2014/07/09/under-surveillance/), and I did not speak out—<br>
-Because I was not a Muslim civil rights leader.
+Then they came for the [civil rights leaders](https://firstlook.org/theintercept/article/2014/07/09/under-surveillance/), and I did not speak out—<br>
+Because I was not a civil rights leader.
 
 Then they came for the [politically active](http://www.huffingtonpost.com/2014/07/09/nsa-glenn-greenwald_n_5545686.html), and I did not speak out—<br>
 Because I was not politically active.
