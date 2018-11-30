@@ -1,15 +1,11 @@
-name: musalbas
-markdown: redcarpet
-highlighter: true
-about: Personal homepage of Mustafa Al-Bassam
-host: 0.0.0.0
-port: 9083
-urls:
-    - text: Twitter
-      url: https://twitter.com/musalbas
-    - text: GitHub
-      url: https://github.com/musalbas
-    - text: LinkedIn
-      url: https://www.linkedin.com/in/musalbas
-    - text: Research
-      url: http://www0.cs.ucl.ac.uk/staff/M.AlBassam/
+# Site settings
+title: Mustafa Al-Bassam's blog
+email: mus@musalbas.com
+description: The personal blog of Mustafa Al-Bassam.
+baseurl: "/blog"
+url: "https://musalbas.com"
+twitter_username: musalbas
+github_username: musalbas
+
+# Build settings
+markdown: kramdown

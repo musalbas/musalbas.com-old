@@ -16,8 +16,8 @@ Initially, I attempted to implement my own fuzzy selection algorithm in raw Pyth
 
 [The source code for the game is available on GitHub.](https://github.com/musalbas/Asteroids-on-Steroids)
 
-![](/img/Asteroids-on-Steroids/gameplay_shot_1.png)<br>
+![]({{ "/img/Asteroids-on-Steroids/gameplay_shot_1.png" | prepend: site.baseurl }})<br>
 *A screenshot of gameplay in desktop mode, on an Ubuntu desktop.*
 
-![](/img/Asteroids-on-Steroids/gameplay_shot_2.png)<br>
+![]({{ "/img/Asteroids-on-Steroids/gameplay_shot_2.png" | prepend: site.baseurl }})<br>
 *A screenshot of gameplay when an image of Barack Obama's face is used as input.*

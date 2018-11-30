@@ -4,7 +4,7 @@ title: First they came...
 date: 2014-07-09
 ---
 
-![](/img/apollo-11.jpg)<br>
+![]({{ "/img/apollo-11.jpg" | prepend: site.baseurl }})<br>
 *The NSA is spying on every single person in this photo, because everybody in existence is in this photo (except for Neil Armstrong and Michael Collins).*
 
 First they came for the [sysadmins](http://www.zdnet.com/nsa-targets-sysadmin-personal-accounts-to-exploit-networks-7000027553/), and I did not speak out—<br>

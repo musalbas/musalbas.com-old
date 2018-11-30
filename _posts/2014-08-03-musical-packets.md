@@ -8,7 +8,7 @@ Earlier this year I attended [StudentHack](http://www.studenthack.com/) and form
 
 Musical Packets is a Python application that listens to your aggregate network traffic and plays it back as music! It also comes with a web interface that visualises the aggregate packets received.
 
-![](/img/musicalpackets-screen.png)<br>
+![]({{ "/img/musicalpackets-screen.png" | prepend: site.baseurl }})<br>
 *Musical Packets web interface.*
 
 The way it works at the moment is by converting the rate of packets received per second to a musical tone. Although it sounds pretty good as it is right now, the original idea (which wasn't developed further due to the 24 hours time constraint) was to assign a different instrument to each network protocol or port. For example, HTTP would sound different than HTTPS.
