@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Equation Group Firewall Operations Catalogue
+title: Equation Group firewall operations catalogue
 date: 2016-08-16
 ---
 
 This week someone [auctioning hacking tools obtained from the NSA-based hacking group "Equation Group"](http://www.wsj.com/articles/group-claim-to-have-u-s-government-hacking-tools-for-sale-1471309022) released a dump of around 250 megabytes of "free" files for proof alongside the auction.
 
-The dump contains a set of exploits, implants and tools for hacking firewalls ("Firewall Operations"). This post aims to be a comprehensive list of all the tools contained or referenced in the dump.
+The dump contains a set of exploits, implants and tools for hacking firewalls ("firewall operations"). This post aims to be a comprehensive list of all the tools contained or referenced in the dump.
 
 Exploits
 -
