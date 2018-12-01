@@ -22,5 +22,5 @@ The project won two of the six prizes at StudentHack:
 
 [The source code is available on GitHub.](https://github.com/musalbas/musicalpackets)
 
-![](/img/studenthack.jpg)<br>
+![]({{ "/img/studenthack.jpg" | prepend: site.baseurl }})<br>
 *From left to right: Callum Spawforth, me and Fares Alaboud.*
