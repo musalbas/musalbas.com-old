@@ -26,4 +26,4 @@ The restore feature on the "config backup" page extracts a .tar file encrypted w
 
 The .tar file must be encrypted with the static key `/tmp/.charlie`. Yes, that's the actual key - the software passes the wrong argument to OpenSSL. `-K` is used to pass the keyfile instead of `-kfile`, meaning that the key is the path of the keyfile rather than the contents of the keyfile.
 
-This allows an attacker to upload a shell into the web root, or overwrite any sensitive system files such as `/etc/shadow`/.
+This allows an attacker to upload a shell into the web root, or overwrite any sensitive system files such as `/etc/shadow/`.
